@@ -1,1 +1,1 @@
-# idcprediction
+# invasive ductal carcinoma prediction
