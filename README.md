@@ -3,4 +3,4 @@ The proposed Convolutional network architecture achieved the state of the art ac
 
 | Accuracy  | F1-Score |
 | ------------- | ------------- |
-| 89  | 89.34  |
+| 89%  | 89.34%  |
