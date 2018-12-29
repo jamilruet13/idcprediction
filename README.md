@@ -19,4 +19,6 @@ Data Split(Train (60%), Test(20%), Validation (20%))
 |Testing(20%)|25318|88.36%|
 
 The paper presented in IEEE TENCON 2018 <br>
+Paper Title: Automatic System for Detecting Invasive Ductal Carcinoma Using Convolutional Neural Networks
 Conference Proceedings: http://sigongji.tencon2018.org/proceedings/assets/html/home.html
+It will publish in IEEE Explore Soon
